@@ -13,21 +13,19 @@ This repo is organized into phases that follow my roadmap:
 
 ``` 
 
-cybersecurity-roadmap/
-|
-│── README.md <- You're here
+│── 📖 README.md              <- You're here
 │
-├── linux-basics/ <- Permissions, filesystem, scripting
-|
-├── networking/ <- DNS, ARP, Wireshark, ss, ifconfig labs
-|
-├── python-mini-projects/ <- CLI tools, log parsers, automation
-|
-├── siem-projects/ <- Log analysis, Splunk/ELK, threat hunting
-|
-├── detection-engineering/ <- Writing rules, alerts, pipelines
-|
-└── final-capstones/ <- End-to-end SOC & cloud security projects
+├── 🐧 linux-basics/          <- Permissions, filesystem, scripting
+│
+├── 🌍 networking/            <- DNS, ARP, Wireshark, ss, ifconfig labs
+│
+├── 🐍 python-mini-projects/  <- CLI tools, log parsers, automation
+│
+├── 📊 siem-projects/         <- Log analysis, Splunk/ELK, threat hunting
+│
+├── 🚨 detection-engineering/ <- Writing rules, alerts, pipelines
+│
+└── 🏆 final-capstones/       <- End-to-end SOC & cloud security projects
 
 ```
 ---
