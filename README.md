@@ -8,7 +8,10 @@ My goal: to become a **Security Data Engineer / SOC Engineer**, building strong 
 ---
 
 ## 📂 Repository Structure
+
 This repo is organized into phases that follow my roadmap:
+
+``` 
 
 cybersecurity-roadmap/
 |
@@ -26,7 +29,7 @@ cybersecurity-roadmap/
 |
 └── final-capstones/ <- End-to-end SOC & cloud security projects
 
-
+```
 ---
 
 ## ✅ Progress Tracker
