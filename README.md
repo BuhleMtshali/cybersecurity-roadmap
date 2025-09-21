@@ -11,6 +11,7 @@ My goal: to become a **Security Data Engineer / SOC Engineer**, building strong 
 This repo is organized into phases that follow my roadmap:
 
 cybersecurity-roadmap/
+|
 │── README.md <- You're here
 │
 ├── linux-basics/ <- Permissions, filesystem, scripting
