@@ -66,9 +66,9 @@ sudo chmod 700 /home/user
 
 ## 📂 Commands Explained
 
-- ``` useradd -m zano ``` → creates user zano with a home folder.
+- ``` useradd -m user ``` → creates user zano with a home folder.
 
-- ``` chpasswd ``` → changes password from zano123.
+- ``` chpasswd ``` → changes password from user password.
 
 - ``` /etc/passwd ``` → file storing user account info.
 
