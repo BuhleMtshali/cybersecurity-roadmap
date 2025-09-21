@@ -38,7 +38,7 @@ id user
 ### 4️⃣ Switch to the new user
 
 ```
-su - zano
+su - user
 
 whoami
 
