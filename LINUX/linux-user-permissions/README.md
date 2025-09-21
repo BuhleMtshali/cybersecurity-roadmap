@@ -29,9 +29,9 @@ echo "username:Password123" | sudo chpasswd
 ### 3️⃣ Verify the user was created
 
 ```
-grep zano /etc/passwd
+grep user /etc/passwd
 
-id zano
+id user
 
 ```
 
@@ -50,7 +50,7 @@ whoami
 
     - To get the "fancy" terminal 😜 like: ```user@kali```, basically get the bash terminal, run this as root:
 
-    ``` chsh -s /bin/bash zano ```
+    ``` chsh -s /bin/bash user ```
 
     - Now when you run: ``` su - user ``` , you get the bash terminal
 
@@ -59,7 +59,7 @@ whoami
 
 ```
 
-sudo chmod 700 /home/zano
+sudo chmod 700 /home/user
 
 ```
 
@@ -74,16 +74,16 @@ sudo chmod 700 /home/zano
 
 - ``` chmod 700 ``` → only the user can access their home directory.
 
-- ``` su ``` - zano → switch to that user’s environment.
+- ``` su ``` - user → switch to that user’s environment.
 
 
 ## ✅ Output Example
 
-- New user zano exists in ``` /etc/passwd ```
+- New user exists in ``` /etc/passwd ```
 
-- Switching to zano shows ``` $ whoami ``` → zano
+- Switching to user shows ``` $ whoami ``` → user
 
-- Home folder ``` /home/zano ``` locked down with 700 permissions
+- Home folder ``` /home/user ``` locked down with 700 permissions
 
 
 ## 🚀 Reflection
