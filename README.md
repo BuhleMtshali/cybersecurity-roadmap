@@ -2,9 +2,14 @@
 
 Welcome to my **Cybersecurity + Security Data Engineering Journey** 🚀  
 
-This repo is my **cyber quest log** — a place where I level up from **IT & Linux basics** 🐧 → **Networking wizardry** 🌍 → **Python automation spells** 🐍 → **SIEM & SOC battles** 📊 → **Cloud fortresses** ☁️ → **Detection Engineering traps** 🚨 → all the way to the **Final Boss Capstones** 🏆.  
+This repo is my **cyber quest log** — a place where I level up from **IT & Linux basics** 🐧 → **Networking wizardry** 🌍 → 
+
+**Python automation spells** 🐍 → **SIEM & SOC battles** 📊 → **Cloud fortresses** ☁️ → **Detection Engineering traps** 🚨 → all
+
+the way to the **Final Boss Capstones** 🏆.  
 
 🎯 **Main Quest:** Become a **Security Data Engineer / SOC Engineer**,  
+
 while stacking practical projects and battle scars to prove the journey.   
 
 
