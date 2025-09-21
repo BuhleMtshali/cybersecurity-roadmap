@@ -53,7 +53,7 @@ whoami
     ``` chsh -s /bin/bash zano ```
 
     - Now when you run: ``` su - user ``` , you get the bash terminal
-    
+
 
 ### 5️⃣ Set strict permissions on home directory
 
@@ -97,3 +97,5 @@ sudo chmod 700 /home/zano
     - How file permissions keep accounts private.
 
     - Next step: writing a Bash script to automate this process.
+
+- Next step: writing a Bash script to automate this process.
