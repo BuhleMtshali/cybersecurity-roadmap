@@ -16,7 +16,6 @@
 
 # Author: Buhle Mtshali
 
-# Date: $(date)
 
 echo "🌐 Network Discovery Script Running..."
 
